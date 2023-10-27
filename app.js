@@ -44,7 +44,7 @@ app.get("/html", function(req,res){
         //res.type('application/json');
         //res.json({'name': 'S. Legah'});
         res.send({
-		'name': 'Landmark Technologies',
+		'name': 'Miguel Technologies',
 		'technology': 'DevOps',
 		'contact' : '+14372152483',
 		'email': 'info@mylandmarktech.com'
